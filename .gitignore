@@ -1,0 +1,8 @@
+# ignore objects and archives, anywhere in the tree.
+*.[oa]
+
+# ignore executable files, anywhere in the tree
+*.exe
+*.out
+
+# ignore the directories
